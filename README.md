@@ -27,7 +27,7 @@ $ yarn run dev
 
 ## License
 
-This project is under the MIT License. See the [LICENSE](https://github.com/Teloschet/feedget/LICENSE) for more information.
+This project is under the MIT License. See the [LICENSE](https://github.com/Teloschet/feedget/blob/main/LICENSE) for more information.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/christopherarthur20/)](https://www.linkedin.com/in/christopherarthur20/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chrislaiero@gmail.com)](mailto:chrisaleiro@gmail.com)
