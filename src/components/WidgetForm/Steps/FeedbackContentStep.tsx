@@ -1,7 +1,7 @@
 import { ArrowLeft, Camera } from "phosphor-react";
 import { FeedbackType, feedbackTypes } from ".."
 import { CloseButton } from "../../CloseButton"
-import { ScreenshotButton } from "../ScreenshortButton";
+import { ScreenshotButton } from "../ScreenshotButton";
 
 interface FeedbackContentStepProps {
   feedbackType: FeedbackType;
